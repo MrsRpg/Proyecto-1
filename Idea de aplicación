@@ -1,3 +1,4 @@
 La aplicación se basaría en una base de datos en donde se almacenana todas las plazas de aparcamiento de los barrios mas poblados de la ciudad,
 para así anticiparte al aparcamiento y poder reservar por una pequeña suma desde el movil, 
 una vez que se tenga la reserva, se escaneará en una maquina de zona azul que proporcionará un ticket que habrá que poner en la luna del coche donde sea visible.
+Si el tiempo que tienes para aparcar en la plaza reservada se acaba el tiquet no será valido y la plaza volverá a estar disponible.
